@@ -13,24 +13,24 @@
 		005B7A831BDD9668007B85DE /* talk_demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005B7A821BDD9668007B85DE /* talk_demoTests.swift */; };
 		005B7A8E1BDD9668007B85DE /* talk_demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005B7A8D1BDD9668007B85DE /* talk_demoUITests.swift */; };
 		005B7AA11BDD96FE007B85DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005B7AA01BDD96FE007B85DE /* AppDelegate.swift */; };
-		241869B51BE09444009D2960 /* PeripheralDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241869B41BE09444009D2960 /* PeripheralDetailViewController.swift */; };
-		241869B71BE098A9009D2960 /* PeripheralStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241869B61BE098A9009D2960 /* PeripheralStore.swift */; };
-		2432BCCF1BDDDA540014BEC8 /* SimpleCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2432BCCE1BDDDA540014BEC8 /* SimpleCentral.swift */; };
 		2432BCD11BDDDF9E0014BEC8 /* ArrayHelper+CBUUID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2432BCD01BDDDF9E0014BEC8 /* ArrayHelper+CBUUID.swift */; };
 		2432BCD31BDDE4970014BEC8 /* StringHelper+CBUUID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2432BCD21BDDE4970014BEC8 /* StringHelper+CBUUID.swift */; };
-		2432BCD51BDDE6A40014BEC8 /* SimpleCentralDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2432BCD41BDDE6A40014BEC8 /* SimpleCentralDelegate.swift */; };
-		244B78AF1BE1EC4C00315E55 /* ListenerDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 244B78AE1BE1EC4C00315E55 /* ListenerDetailTableViewCell.swift */; };
-		245C94381BDEDF3D004DDB1A /* ListenerDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245C94371BDEDF3D004DDB1A /* ListenerDetailViewController.swift */; };
+		247713221C1CDE59001E609C /* ListenerDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247713171C1CDE59001E609C /* ListenerDetailTableViewCell.swift */; };
+		247713231C1CDE59001E609C /* ListenerDetailTableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247713181C1CDE59001E609C /* ListenerDetailTableViewDataSource.swift */; };
+		247713241C1CDE59001E609C /* ListenerDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247713191C1CDE59001E609C /* ListenerDetailViewController.swift */; };
+		247713251C1CDE59001E609C /* ListenerTableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2477131A1C1CDE59001E609C /* ListenerTableViewDataSource.swift */; };
+		247713261C1CDE59001E609C /* ListenerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2477131B1C1CDE59001E609C /* ListenerViewController.swift */; };
+		247713271C1CDE59001E609C /* PeripheralDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2477131C1C1CDE59001E609C /* PeripheralDetailViewController.swift */; };
+		247713281C1CDE59001E609C /* PeripheralStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2477131D1C1CDE59001E609C /* PeripheralStore.swift */; };
+		247713291C1CDE59001E609C /* SimpleCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2477131E1C1CDE59001E609C /* SimpleCentral.swift */; };
+		2477132A1C1CDE59001E609C /* SimpleCentralDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2477131F1C1CDE59001E609C /* SimpleCentralDelegate.swift */; };
+		2477132B1C1CDE59001E609C /* SimpleCentralPeripheralDataModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247713201C1CDE59001E609C /* SimpleCentralPeripheralDataModels.swift */; };
 		24822E971BDDCBA7007EDFA5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24822E961BDDCBA7007EDFA5 /* ViewController.swift */; };
-		24822E991BDDCCD8007EDFA5 /* ListenerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24822E981BDDCCD8007EDFA5 /* ListenerViewController.swift */; };
-		24822E9C1BDDD764007EDFA5 /* ListenerTableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24822E9B1BDDD764007EDFA5 /* ListenerTableViewDataSource.swift */; };
-		24B014BA1BE3E22C0087820C /* ListenerDetailTableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B014B91BE3E22C0087820C /* ListenerDetailTableViewDataSource.swift */; };
 		6B441B331BE04598008B58D9 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B441B321BE04598008B58D9 /* Message.swift */; };
 		6B441B351BE14C49008B58D9 /* CentralViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B441B341BE14C49008B58D9 /* CentralViewController.swift */; };
 		6B50B5B61BDFF53200ABD272 /* Peripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B50B5B51BDFF53200ABD272 /* Peripheral.swift */; };
 		6B50B5B81BDFF5FD00ABD272 /* Central.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B50B5B71BDFF5FD00ABD272 /* Central.swift */; };
 		6B50B5BA1BE0036200ABD272 /* PeripheralViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B50B5B91BE0036200ABD272 /* PeripheralViewController.swift */; };
-		CA28421EC5096DD221D3E068 /* SimpleCentralPeripheralDataModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA2843FA8777F8BA80D515F2 /* SimpleCentralPeripheralDataModels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,24 +63,24 @@
 		005B7A8D1BDD9668007B85DE /* talk_demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = talk_demoUITests.swift; sourceTree = "<group>"; };
 		005B7A8F1BDD9668007B85DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		005B7AA01BDD96FE007B85DE /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = source/AppDelegate.swift; sourceTree = "<group>"; };
-		241869B41BE09444009D2960 /* PeripheralDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeripheralDetailViewController.swift; sourceTree = "<group>"; };
-		241869B61BE098A9009D2960 /* PeripheralStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeripheralStore.swift; sourceTree = "<group>"; };
-		2432BCCE1BDDDA540014BEC8 /* SimpleCentral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleCentral.swift; sourceTree = "<group>"; };
-		2432BCD01BDDDF9E0014BEC8 /* ArrayHelper+CBUUID.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArrayHelper+CBUUID.swift"; sourceTree = "<group>"; };
-		2432BCD21BDDE4970014BEC8 /* StringHelper+CBUUID.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "StringHelper+CBUUID.swift"; sourceTree = "<group>"; };
-		2432BCD41BDDE6A40014BEC8 /* SimpleCentralDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleCentralDelegate.swift; sourceTree = "<group>"; };
-		244B78AE1BE1EC4C00315E55 /* ListenerDetailTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListenerDetailTableViewCell.swift; sourceTree = "<group>"; };
-		245C94371BDEDF3D004DDB1A /* ListenerDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListenerDetailViewController.swift; sourceTree = "<group>"; };
-		24822E961BDDCBA7007EDFA5 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		24822E981BDDCCD8007EDFA5 /* ListenerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListenerViewController.swift; sourceTree = "<group>"; };
-		24822E9B1BDDD764007EDFA5 /* ListenerTableViewDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListenerTableViewDataSource.swift; sourceTree = "<group>"; };
-		24B014B91BE3E22C0087820C /* ListenerDetailTableViewDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListenerDetailTableViewDataSource.swift; sourceTree = "<group>"; };
+		2432BCD01BDDDF9E0014BEC8 /* ArrayHelper+CBUUID.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ArrayHelper+CBUUID.swift"; path = "source/ArrayHelper+CBUUID.swift"; sourceTree = "<group>"; };
+		2432BCD21BDDE4970014BEC8 /* StringHelper+CBUUID.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "StringHelper+CBUUID.swift"; path = "source/StringHelper+CBUUID.swift"; sourceTree = "<group>"; };
+		247713171C1CDE59001E609C /* ListenerDetailTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListenerDetailTableViewCell.swift; path = source/central/ListenerDetailTableViewCell.swift; sourceTree = "<group>"; };
+		247713181C1CDE59001E609C /* ListenerDetailTableViewDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListenerDetailTableViewDataSource.swift; path = source/central/ListenerDetailTableViewDataSource.swift; sourceTree = "<group>"; };
+		247713191C1CDE59001E609C /* ListenerDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListenerDetailViewController.swift; path = source/central/ListenerDetailViewController.swift; sourceTree = "<group>"; };
+		2477131A1C1CDE59001E609C /* ListenerTableViewDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListenerTableViewDataSource.swift; path = source/central/ListenerTableViewDataSource.swift; sourceTree = "<group>"; };
+		2477131B1C1CDE59001E609C /* ListenerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListenerViewController.swift; path = source/central/ListenerViewController.swift; sourceTree = "<group>"; };
+		2477131C1C1CDE59001E609C /* PeripheralDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PeripheralDetailViewController.swift; path = source/central/PeripheralDetailViewController.swift; sourceTree = "<group>"; };
+		2477131D1C1CDE59001E609C /* PeripheralStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PeripheralStore.swift; path = source/central/PeripheralStore.swift; sourceTree = "<group>"; };
+		2477131E1C1CDE59001E609C /* SimpleCentral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SimpleCentral.swift; path = source/central/SimpleCentral.swift; sourceTree = "<group>"; };
+		2477131F1C1CDE59001E609C /* SimpleCentralDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SimpleCentralDelegate.swift; path = source/central/SimpleCentralDelegate.swift; sourceTree = "<group>"; };
+		247713201C1CDE59001E609C /* SimpleCentralPeripheralDataModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SimpleCentralPeripheralDataModels.swift; path = source/central/SimpleCentralPeripheralDataModels.swift; sourceTree = "<group>"; };
+		24822E961BDDCBA7007EDFA5 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = source/ViewController.swift; sourceTree = "<group>"; };
 		6B441B321BE04598008B58D9 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Message.swift; path = source/ping/Message.swift; sourceTree = "<group>"; };
 		6B441B341BE14C49008B58D9 /* CentralViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CentralViewController.swift; path = source/ping/CentralViewController.swift; sourceTree = "<group>"; };
 		6B50B5B51BDFF53200ABD272 /* Peripheral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Peripheral.swift; path = source/ping/Peripheral.swift; sourceTree = "<group>"; };
-		6B50B5B71BDFF5FD00ABD272 /* Central.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Central.swift; sourceTree = "<group>"; };
+		6B50B5B71BDFF5FD00ABD272 /* Central.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Central.swift; path = source/ping/Central.swift; sourceTree = "<group>"; };
 		6B50B5B91BE0036200ABD272 /* PeripheralViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PeripheralViewController.swift; path = source/ping/PeripheralViewController.swift; sourceTree = "<group>"; };
-		CA2843FA8777F8BA80D515F2 /* SimpleCentralPeripheralDataModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleCentralPeripheralDataModels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,16 +166,16 @@
 		24822E9A1BDDCCE0007EDFA5 /* central */ = {
 			isa = PBXGroup;
 			children = (
-				241869B61BE098A9009D2960 /* PeripheralStore.swift */,
-				24822E981BDDCCD8007EDFA5 /* ListenerViewController.swift */,
-				24822E9B1BDDD764007EDFA5 /* ListenerTableViewDataSource.swift */,
-				245C94371BDEDF3D004DDB1A /* ListenerDetailViewController.swift */,
-				24B014B91BE3E22C0087820C /* ListenerDetailTableViewDataSource.swift */,
-				241869B41BE09444009D2960 /* PeripheralDetailViewController.swift */,
-				2432BCCE1BDDDA540014BEC8 /* SimpleCentral.swift */,
-				2432BCD41BDDE6A40014BEC8 /* SimpleCentralDelegate.swift */,
-				CA2843FA8777F8BA80D515F2 /* SimpleCentralPeripheralDataModels.swift */,
-				244B78AE1BE1EC4C00315E55 /* ListenerDetailTableViewCell.swift */,
+				247713171C1CDE59001E609C /* ListenerDetailTableViewCell.swift */,
+				247713181C1CDE59001E609C /* ListenerDetailTableViewDataSource.swift */,
+				247713191C1CDE59001E609C /* ListenerDetailViewController.swift */,
+				2477131A1C1CDE59001E609C /* ListenerTableViewDataSource.swift */,
+				2477131B1C1CDE59001E609C /* ListenerViewController.swift */,
+				2477131C1C1CDE59001E609C /* PeripheralDetailViewController.swift */,
+				2477131D1C1CDE59001E609C /* PeripheralStore.swift */,
+				2477131E1C1CDE59001E609C /* SimpleCentral.swift */,
+				2477131F1C1CDE59001E609C /* SimpleCentralDelegate.swift */,
+				247713201C1CDE59001E609C /* SimpleCentralPeripheralDataModels.swift */,
 			);
 			name = central;
 			sourceTree = "<group>";
@@ -332,25 +332,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				241869B51BE09444009D2960 /* PeripheralDetailViewController.swift in Sources */,
-				24822E991BDDCCD8007EDFA5 /* ListenerViewController.swift in Sources */,
+				247713261C1CDE59001E609C /* ListenerViewController.swift in Sources */,
+				247713281C1CDE59001E609C /* PeripheralStore.swift in Sources */,
 				005B7AA11BDD96FE007B85DE /* AppDelegate.swift in Sources */,
 				6B441B331BE04598008B58D9 /* Message.swift in Sources */,
+				247713251C1CDE59001E609C /* ListenerTableViewDataSource.swift in Sources */,
 				2432BCD11BDDDF9E0014BEC8 /* ArrayHelper+CBUUID.swift in Sources */,
-				2432BCCF1BDDDA540014BEC8 /* SimpleCentral.swift in Sources */,
-				2432BCD51BDDE6A40014BEC8 /* SimpleCentralDelegate.swift in Sources */,
+				247713241C1CDE59001E609C /* ListenerDetailViewController.swift in Sources */,
 				6B50B5B81BDFF5FD00ABD272 /* Central.swift in Sources */,
 				6B441B351BE14C49008B58D9 /* CentralViewController.swift in Sources */,
+				247713291C1CDE59001E609C /* SimpleCentral.swift in Sources */,
 				6B50B5B61BDFF53200ABD272 /* Peripheral.swift in Sources */,
+				2477132B1C1CDE59001E609C /* SimpleCentralPeripheralDataModels.swift in Sources */,
 				6B50B5BA1BE0036200ABD272 /* PeripheralViewController.swift in Sources */,
+				2477132A1C1CDE59001E609C /* SimpleCentralDelegate.swift in Sources */,
+				247713221C1CDE59001E609C /* ListenerDetailTableViewCell.swift in Sources */,
+				247713231C1CDE59001E609C /* ListenerDetailTableViewDataSource.swift in Sources */,
+				247713271C1CDE59001E609C /* PeripheralDetailViewController.swift in Sources */,
 				2432BCD31BDDE4970014BEC8 /* StringHelper+CBUUID.swift in Sources */,
-				244B78AF1BE1EC4C00315E55 /* ListenerDetailTableViewCell.swift in Sources */,
-				245C94381BDEDF3D004DDB1A /* ListenerDetailViewController.swift in Sources */,
 				24822E971BDDCBA7007EDFA5 /* ViewController.swift in Sources */,
-				24822E9C1BDDD764007EDFA5 /* ListenerTableViewDataSource.swift in Sources */,
-				241869B71BE098A9009D2960 /* PeripheralStore.swift in Sources */,
-				CA28421EC5096DD221D3E068 /* SimpleCentralPeripheralDataModels.swift in Sources */,
-				24B014BA1BE3E22C0087820C /* ListenerDetailTableViewDataSource.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
